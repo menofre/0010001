@@ -1,0 +1,4 @@
+Ceci est un test de MaxRocket pour GitHub. IIas STP modifie cette phrase:
+
+"COUCOU"
+en "SALUT"
